@@ -1,10 +1,10 @@
 # AirlinePassengerSatisfaction
 INTRODUCTION
 
+
+Welcome to my groundbreaking project aimed at predicting airline satisfaction! In today's rapidly evolving world, customer satisfaction stands as the cornerstone of successful businesses, and the aviation industry is no exception. Understanding and anticipating passengers' needs and expectations is paramount to enhancing their overall experience and fostering continued loyalty.
+
 This data is given by an airline organization. Original name of the company is not given so we call it as Invistico_Airline.
-
-
-The main objective of the analysis is to predict whether a potential customer will be satisfied with the service offered and to identify which factors expressed by customers most influence satisfaction.
 
 The selected dataset contains a total of 23 variables and 129,880 observations. The variables are:
 
